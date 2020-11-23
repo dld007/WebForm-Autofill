@@ -9,4 +9,5 @@ This application automatically fills out your end of shift form.
 5. Run the executable.
 
     a. If you worked at your default office, type 'main.exe "*start of shift time*"'
+    
     b. If you worked at another office, type 'main.exe "*start of shift time*" "*office you worked at*"
